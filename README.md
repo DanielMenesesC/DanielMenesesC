@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **javascript, html, css and php**
 
-- 📫 How to reach me **www.linkedin.com/in/daniel-meneses-a4028024a**
+- 📫 How to reach me **daniel0019.meneses@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
